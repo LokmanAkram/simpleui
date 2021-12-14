@@ -7,6 +7,7 @@
 <body>
 <h1><%= "Hello World!" %>
 </h1>
+<h2>My name is Lokman Hakim</h2>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
